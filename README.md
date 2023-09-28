@@ -18,10 +18,8 @@ In today's digital age, businesses and organizations collect vast amounts of use
 
 The project is organized into the following directories and files:
 
-- `data/`: Contains datasets used for analysis.
-- `notebooks/`: Jupyter notebooks for data generation, EDA, and analysis.
-- `results/`: Output files, visualizations, and analysis reports.
-- `README.md`: This README file with project information and instructions.
+- Generating User Behaviour Data: Python code file (.ipynb) for the generation of synthetic user behaviour data along with the generated user behaviour file (.csv)
+- 
 
 ## Usage
 
