@@ -19,7 +19,7 @@ In today's digital age, businesses and organizations collect vast amounts of use
 The project is organized into the following directories and files:
 
 - **Generating User Behaviour Data:** Python code file (.ipynb) for the generation of synthetic user behaviour data along with the generated user behaviour file (.csv)
-- 
+- under process...
 
 ## Usage
 
