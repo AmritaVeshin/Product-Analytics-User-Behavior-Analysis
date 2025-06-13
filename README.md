@@ -9,7 +9,7 @@ Welcome to the User Behavior Analysis Project repository! This project aims to a
 
 In today's digital age, businesses and organizations collect vast amounts of user data. The challenge lies in extracting meaningful insights from this data to enhance user experiences, increase conversions, and drive business growth. This project addresses the following key objectives:
 
-- **Data Generation:** Generate synthetic user behavior data using Python and the Faker library.
+- **Data Generation:** Generate synthetic user behavior data using Statistical Probability Distributions, Python and the Faker library.
 - **Exploratory Data Analysis (EDA):** Analyze user behavior patterns, conversion funnels, and cohort behavior.
 - **Insights and Recommendations:** Derive actionable insights to improve user experiences and optimize conversions.
 - **Educational Resource:** Serve as a learning resource for data analysts and data scientists to practice user behavior analysis techniques.
