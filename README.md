@@ -18,8 +18,9 @@ In today's digital age, businesses and organizations collect vast amounts of use
 
 The project is organized into the following directories and files:
 
-- **Generating User Behaviour Data:** Python code file (.ipynb) for the generation of synthetic user behaviour data along with the generated user behaviour file (.csv)
-- under process...
+- **User_Behavior_Analysis:** Python code file (.ipynb) for the generation of synthetic user behaviour data along with User Behavior Analysis EDA 
+- **synthetic_user_data:**  Generated user behaviour data file (.csv)
+- **README.md file:** This README file 
 
 ## Usage
 
@@ -43,3 +44,4 @@ Install these dependencies using `pip` if you haven't already:
 
 ```bash
 pip install pandas matplotlib Faker jupyter
+```
